@@ -3,7 +3,7 @@
 > 一套面向行业读者的开源评测方法论。让通用 Agent 在有客观开奖时刻的真实任务中接受考验。
 > *An open-source evaluation series for general-purpose AI Agents on real-world tasks with verifiable outcomes.*
 
-由**品玩 / 硅星人**出品 · *Powered by PingWest / SiliconStar*
+由**品玩 / 硅星人**出品 · *Powered by PingWest / 硅星人*
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## What is this (English)
 
-`Agent Eval` is an open-source evaluation series for general-purpose AI Agents on real-world tasks with verifiable outcomes (product launches, exam predictions, sports events, earnings releases, etc.), produced by **PingWest / SiliconStar**.
+`Agent Eval` is an open-source evaluation series for general-purpose AI Agents on real-world tasks with verifiable outcomes (product launches, exam predictions, sports events, earnings releases, etc.), produced by **PingWest / 硅星人**.
 
 Key differences from existing benchmarks:
 
@@ -119,12 +119,12 @@ agent-eval/
 
 简单来说,你可以自由使用、修改、传播本仓库的全部内容,但必须:
 
-1. **署名**「品玩 / 硅星人 Agent Eval 系列」(PingWest / SiliconStar Agent Eval Series)
+1. **署名**「品玩 / 硅星人 Agent Eval 系列」(PingWest / 硅星人 Agent Eval Series)
 2. 修改后的作品必须以**相同 license** 公开发布
 
 完整 license 文本见 [LICENSE](LICENSE)。
 
-*This repository is licensed under **CC-BY-SA 4.0**. You may freely use, modify, and redistribute the content, provided that (1) you credit "PingWest / SiliconStar Agent Eval Series", and (2) derivative works are licensed under the same terms.*
+*This repository is licensed under **CC-BY-SA 4.0**. You may freely use, modify, and redistribute the content, provided that (1) you credit "PingWest / 硅星人 Agent Eval Series", and (2) derivative works are licensed under the same terms.*
 
 ---
 
@@ -132,8 +132,8 @@ agent-eval/
 
 - **Issue**:bug 反馈、争议判定异议、新 Agent 入榜申请 → 推荐方式
 - **Pull Request**:错别字 / 死链修复 / 信源核查补充 → 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
-- **商业咨询 / 媒体合作**:请联系 [品玩 / 硅星人]
+- **商业咨询 / 媒体合作**:contact@pingwest.com
 
 ---
 
-*By PingWest / SiliconStar · 让通用 Agent 在真实任务中接受考验*
+*By PingWest / 硅星人 · 让通用 Agent 在真实任务中接受考验*

@@ -39,7 +39,7 @@ Key differences from existing benchmarks:
 
 ## 当前 Leaderboard
 
-### EVAL-003 · Google I/O 2026 预测(2026-05-19 开奖)
+### EVAL-001 · Google I/O 2026 预测(2026-05-19 开奖)
 
 | 排名 | Agent | 过程分 | 结果分 | 综合分 |
 |------|-------|--------|--------|--------|
@@ -54,7 +54,7 @@ Key differences from existing benchmarks:
 
 公式:**综合分 = 过程分 × 40% + 结果分 × 60%**
 
-👉 [查看完整案例](cases/EVAL-003-google-io-2026/) · [评测文章](cases/EVAL-003-google-io-2026/analysis.md) · [跨案例总榜](leaderboard/overall.md)
+👉 [查看完整案例](cases/EVAL-001-google-io-2026/) · [评测文章](cases/EVAL-001-google-io-2026/analysis.md) · [跨案例总榜](leaderboard/overall.md) · [📰 公众号首发](https://mp.weixin.qq.com/s/tlWoU_YeXJPKHYFIuwoIRg)
 
 ---
 
@@ -86,7 +86,7 @@ agent-eval/
 │   ├── agent_eval_framework.md     # 评测框架 v0.1
 │   └── agent_eval_roster.md        # 参评 Agent 阵容 v1.0
 ├── cases/                          # 每期独立案例
-│   └── EVAL-003-google-io-2026/    # 首期评测
+│   └── EVAL-001-google-io-2026/    # 首期评测
 │       ├── README.md               # 案例总览
 │       ├── prompt.md               # 统一 Prompt
 │       ├── ground_truth.md         # I/O 实际发布清单

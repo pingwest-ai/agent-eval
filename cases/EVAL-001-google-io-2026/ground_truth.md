@@ -1,6 +1,6 @@
 # Google I/O 2026 Keynote 实际发布清单(Ground Truth v0.2)
 
-> **纯事实文档,不含判定**——用于 EVAL-003 评测,作为黄金标准。
+> **纯事实文档,不含判定**——用于 EVAL-001 评测,作为黄金标准。
 > 评分细则单独见 `IO2026_ScoringRules.md`。
 > 数据源:blog.google Sundar 主题演讲全文 + Engadget Everything Announced + 9to5google + Tom's Guide + 多源 WebSearch 交叉验证。
 > 整理日期:2026-05-19 keynote 当天

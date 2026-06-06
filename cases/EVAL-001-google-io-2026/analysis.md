@@ -1,6 +1,8 @@
 # Google I/O 2026 大乱斗:8 个 AI Agent 的预测,谁更准,谁在编故事
 
 > *品玩 / 硅星人 Agent Eval 系列首期评测*
+>
+> 📰 本文首发于品玩 / 硅星人公众号 · [阅读原文](https://mp.weixin.qq.com/s/tlWoU_YeXJPKHYFIuwoIRg)
 
 ---
 

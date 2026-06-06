@@ -1,4 +1,4 @@
-# EVAL-003 结果评分细则(ScoringRules.md)
+# EVAL-001 结果评分细则(ScoringRules.md)
 
 > 配合 `IO2026_GroundTruth.md` 使用。Ground Truth 只放事实,本文档定义"如何按事实判分"。
 > 8 家 Agent 分别评分时,**评分者按本文档独立生成判定**,不引用其他家的判定结果(避免锚定)。
